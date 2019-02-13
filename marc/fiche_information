@@ -1,0 +1,62 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+
+\title{Fiche Informations}
+\author{marcbernard}
+\date{February 2019}
+
+\begin{document}
+
+\maketitle
+
+\clearpage
+
+\part{ETAT CIVIL}
+
+\section{Informations gloables}
+
+\paragraph{Nom : BERNARD}
+\paragraph{Prénom(s) : Marc, Éric}
+  \paragraph{Lieu de naissance: Rouen}
+\paragraph{Date de naissance : 8/10/1999}
+\paragraph{Nationalité : Français}
+
+\section{Habitat}
+
+\paragraph{25 avenue du thil, résidence les Sources, entrée 2, appartement 31}
+\paragraph{33160, Saint-Médard en Jalles}
+\paragraph{FRANCE}
+
+\clearpage
+\part{INFORMATIQUE}
+\setcounter{section}{0}
+\section{Comment je vois l'informatique dans 1 ou 2 ans?}
+
+\paragraph{Étant donné l'éévolution de l'informatique ces dernières années, je ne saurais prédire ou elle en serai l'année prochaine et donc encore moins dans 2 ans.}
+
+\section{Comment je me vois dans ce monde de l'informatique dans 1 ou 2 ans?}
+
+\paragraph{Je me vois poursuivre mon apprentissage sur cette matière qui évoluera en même temps que mes connaissances sur le sujet.}
+
+
+\clearpage
+\part{PROJECTION}
+\setcounter{section}{0}
+
+\section{Comment je me vois dans mon métier d'ici 6 ans:}
+
+\paragraph{Comme je l'ai précedemment, le sujet du futur de de ma position dans l'informatique ainse que son avancée est très flou pour moi et je ne saurai prédire comment sera mon métier dans 6 ans car je ne sais pas encore dans quel domaine de l'informatique je me dirigerai}
+
+\clearpage
+\part{PASSION}
+\setcounter{section}{0}
+
+\begin{itemize}
+
+\item Jeux vidéos 
+\item Sport (Boxe/Volleyball) 
+
+\end{itemize}
+
+\end{document}
